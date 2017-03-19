@@ -1,7 +1,23 @@
 h1{
-  font-family: Verdana;
-  font-weight: normal;
+
+  font-weight:bold;
   font-size: 50px;
+
+}
+
+body{
+  background-color: black;
   color: white;
   font align-content: center;
+    font-family: Verdana;
+}
+
+.cta{
+  color: aquamarine;
+  font-size: 16px;
+}
+p {
+color: gray
+  font size: 21px
+  font-weight:bold;
 }
